@@ -8,5 +8,8 @@
 
 
 <p align="center">
-  <img src="./logohcaisa.svg" alt="HCAI Sarajevo" />
+  <img src="assets/logo_hcaisa.svg" alt="HCAI Sarajevo" width="100" hspace="20"/>
+  <img src="assets/etf_logo.svg" alt="Logo 3" width="60" />
+  <img src="assets/unsa_logo.svg" alt="Logo 4" width="60" hspace="20"/>
+  <img src="assets/logo_annt.jpg" alt="Logo 2" width="60" />
 </p>
